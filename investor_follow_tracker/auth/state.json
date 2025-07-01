@@ -1,0 +1,14 @@
+{"cookies": [
+        {"name": "lang", "value": "v=2&lang=en-us", "domain": ".linkedin.com", "path": "/", "expires": -1, "httpOnly": false, "secure": true, "sameSite": "None"}, 
+        {"name": "JSESSIONID", "value": "\"ajax:2203058800024586039\"", "domain": ".www.linkedin.com", "path": "/", "expires": 1756629075.42323, "httpOnly": false, "secure": true, "sameSite": "None"}, 
+        {"name": "bcookie", "value": "\"v=2&855500fb-163f-4fc7-8f10-fe2eddeecaa2\"", "domain": ".linkedin.com", "path": "/", "expires": 1780389076.423248, "httpOnly": false, "secure": true, "sameSite": "None"}, 
+        {"name": "bscookie", "value": "\"v=1&20250602083112d5d306df-ffa1-400d-8350-4d5080d12589AQFvs6ysinnEJujWipC8QUBzBheS4Ybo\"", "domain": ".www.linkedin.com", "path": "/", "expires": 1780389076.42329, "httpOnly": true, "secure": true, "sameSite": "None"}, 
+        {"name": "AMCV_14215E3D5995C57C0A495C55%40AdobeOrg", "value": "-637568504%7CMCIDTS%7C20242%7CvVersion%7C5.1.1", "domain": ".linkedin.com", "path": "/", "expires": 1764405075, "httpOnly": false, "secure": false, "sameSite": "Lax"}, 
+        {"name": "li_rm", "value": "AQEq9OhN02LrtwAAAZcvxC6OrMOa_Wz6k_8rGRB3X7qWD5KJEwviq2NdfTjZDl1hK576kswP4dNzpZgQV0uH4P-azVHniQj-tBpCzwhmfzaGAuJfTk9iMNDQ37pxNRea9ityqbTzkXgZ0BVEu6dy5PH53HwDY13WoHPSAXRX_ZQbWr127HWnzl2dFvkUOdtPVULJToWv7E5HkvmPq4SeKvDDevbBRXR7Akyncr3iyHVhjewmjV0JjimWrpYezdjkdGBt1xeaEE_ofkb2ZiNv_CEUUy34H3lSHBmKVFzoR2ur3bHn6j8fdWNPSq3TU59U5S-gIIesh8Lug2JuqY6o9Q", "domain": ".www.linkedin.com", "path": "/", "expires": 1780389075.423092, "httpOnly": true, "secure": true, "sameSite": "None"}, 
+        {"name": "liap", "value": "true", "domain": ".linkedin.com", "path": "/", "expires": 1756629075.423192, "httpOnly": false, "secure": true, "sameSite": "None"}, 
+        {"name": "li_at", "value": "AQEDAUGikLgDDStwAAABly_ELk8AAAGXU9CyT1YAVbBCpKseqz1OqTsAMdGQ7Drcc1hhhORyh3u_vI4v7sQ8ueI0qBGqo-YVyb_My0JFRTYi05qEFzqAvjdS3bbgvonqi1914GeCe1VXUJ-M_p1o5ADV", "domain": ".www.linkedin.com", "path": "/", "expires": 1780389075.423205, "httpOnly": true, "secure": true, "sameSite": "None"}, 
+        {"name": "lidc", "value": "\"b=TB20:s=T:r=T:a=T:p=T:g=5462:u=357:x=1:i=1748853075:t=1748885857:v=2:sig=AQFxv1gIgJ5X8OxtR4L9VDDI22CtF_CF\"", "domain": ".linkedin.com", "path": "/", "expires": 1748885857.878664, "httpOnly": false, "secure": true, "sameSite": "None"}
+    ], 
+    "origins": [
+        {"origin": "https://li.protechts.net", "localStorage": [{"name": "PXdOjV695v_px-ff", "value": "e30="}]}
+    ]}
